@@ -246,7 +246,7 @@ User experience settings control the end-user experience for device restart and 
     **Default**: *Not configured*
     Windows Update CSP: [Update/ConfigureDeadlineGracePeriod]( /windows/client-management/mdm/policy-csp-update#update-configuredeadlinegraceperiod)
 
-    Specifies a minimum number of days after deadline until restarts occur automatically (0-7).
+    Specifies a minimum number of days after deadline until restarts occur automatically irrespective of active hours (0-7).
 
   - **Auto reboot before deadline**  
     **Default**:  Yes
